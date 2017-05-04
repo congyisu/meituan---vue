@@ -1,0 +1,65 @@
+@import './common.scss';
+.headerarea{
+	position:relative;
+	width:100%;
+	height:44px;
+	background:$basecolor;
+	display:flex;
+	font-size:16px;
+	align-items:center;
+	span{
+		color:$whitecolor;
+		text-align:center;
+		
+		&:nth-child(1){
+			width:10%;
+		}
+		&:nth-child(3){
+			width:10%;
+			display:flex;
+			position: relative;
+			flex-direction:column;
+			i{
+				    position: relative;
+	    				top: -6px;
+	    				font-size: 22px;
+				&:nth-child(1){
+					font-size:10px;
+				}
+				&:nth-child(2){
+					font-size:12px;
+					 position: absolute;
+   					top: 21px;
+   					left:2px;
+						
+				}
+				&:before{
+					font-size:20px;
+					font-weight: blod;
+
+				}
+			}
+		}
+		&:nth-child(2){
+			flex:1;
+		}
+	}
+	.navItems{
+		position:absolute;
+		right:0;
+		top:102%;
+		z-index:10;
+		display:none;
+		li{
+			background:$basecolor;
+			color:#fff;
+			font-size:14px;
+			padding:10px 25px;
+			span{
+				font-size:14px;
+				margin-right:5px;
+			}
+		}
+
+	}
+}

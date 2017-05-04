@@ -1,0 +1,119 @@
+	.citys{
+	width:100%;
+	height:100%;
+	$font-color:#999;
+		.title{
+			flex:2;
+			text-align: center;
+		}
+		.nav{
+			margin-right:15px;
+		}
+		span i:before{
+			font-size:22px;
+			font-weight: bold;
+			margin-bottom:3px;
+		}
+	
+
+.content{
+	width:100%;
+	padding:10px;
+	div{
+		width:100%;
+		margin:0 auto;
+	}
+	.location-city{
+		margin-bottom:20px;
+		height:45px;
+		line-height: 45px;
+		background: #fff;
+		padding-left: 10px;
+		border-radius:4px;
+		color:$font-color;
+		font-size:12px;
+		span{
+		
+		}
+	}
+	.current-location,.hot-city{
+		border-radius:3px;
+		p{
+			font-size:14px;
+			margin:10px 0;
+			color:#959594;
+		}
+		.current-city{
+			background: #fff;
+			overflow: hidden;
+			li{
+				float: left;
+				color:#777777;
+				width:25%;
+				height:40px;
+				line-height: 40px;
+				text-align: center;
+				border-right: 1px solid #ddd8ce;
+				border-bottom:1px solid #ddd8ce;
+			}
+		}
+		
+	}
+	.clear{
+		clear: both;
+	}
+	.charlist{
+		width:100%;
+		margin:10px 0 15px 0;
+		overflow: hidden;
+		
+		.chars{
+			background: #fff;
+			overflow: hidden;
+			li{
+				width:20%;
+				float:left;
+				text-align: center;
+				height:40px;
+				line-height: 40px;
+				color:$titleColor;
+				font-size:14px;
+			}
+		}
+		.cityLists{
+			margin-top:10px;
+		
+		.cityList{
+			width:100%;
+			border-top:1px solid #ddd8ce;
+			overflow: hidden;
+			background: #fff;
+				h4{
+					float: left;
+					height:90px;
+					width:25%;
+					font-size:36px;
+					font-weight:normal;
+					color:#B7B7B7;
+					line-height:90px;
+					text-align: center;
+					border: 1px solid #ddd8ce;
+					border-top:none;
+				}
+				li{
+					width:25%;
+					float:left;
+					height:45px;
+					line-height: 45px;
+					color:#666;
+					font-size:12px;
+					text-align: center;
+					border-right: 1px solid #ddd8ce;
+					border-bottom:1px solid #ddd8ce;
+				}
+			}
+			}
+	}
+}
+
+}

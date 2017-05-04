@@ -1,0 +1,65 @@
+.navlist{
+	width:100%;
+	background:#fff;
+	margin-bottom:10px;
+	 overflow: hidden;
+	 padding-bottom:10px;
+	li{
+	width: 20%;
+    float: left;
+    text-align: center;
+    margin-top:10px;
+    span:before,span:after{
+    color:#fff;
+    font-size:20px;
+    }
+   		a{
+   		 display: flex;
+    	align-items: center;
+    	justify-content: center;
+    	flex-direction:column;
+    	color:#666;
+    	font-size:12px;
+    	    width: 104%;
+   		}
+		.circle{
+		width:40px;
+		height:40px;
+		border-radius:100%;
+		display:block;
+		line-height:40px;
+		margin-bottom:5px;
+
+		}
+		.meishi{
+		 background: #fd9d21;
+		}
+		.jiudian{
+		background: #8a90fa;
+		}
+		.xiuxianyule{
+		    background: #fed030;
+		}
+		.waimai{
+		background: #fd9d21;
+		}
+		.xiaochikuaican{
+		    background: #fd9d21;
+		}
+		.liren{
+		    background: #ff80c2;
+		}
+		.huocepiao{
+		background: #599eec;
+		}
+		.xuexipeixun{
+		    background: #84d23d;
+		}
+		.jinrixindan{
+		background: #00d3be;
+		}
+		.quanbufenlei{
+		background: #00d3be;
+		}
+	}
+}

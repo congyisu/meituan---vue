@@ -1,0 +1,42 @@
+	$titleColor:#06C1AE;
+		.header{
+			width:100%;
+			height:50px;
+			background:$titleColor;
+			padding:0 10px;
+			line-height: 50px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			position:relative;
+			a{
+				color:#fff;
+			}
+
+			i{
+				font-size:28px;
+				font-style: normal;
+				height:20px;
+				display: block;
+				line-height: 24px;
+				text-align: center;
+			}
+			.daohang{
+				font-size:12px;
+
+			}
+			span{
+				color:#fff;
+			}
+			span:before,span:after{
+				color:#fff;
+				font-size:20px;
+			}
+			span:last-child{
+				position: relative;
+
+			}
+			.title{
+				font-size:18px;
+			}
+		}

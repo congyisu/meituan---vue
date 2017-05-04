@@ -1,0 +1,660 @@
+{
+  "cinemas": [
+    {
+      "addr": "海淀区上地南口华联商厦4F",
+      "cityId": 1,
+      "dis": 938.3808401916505,
+      "distance": "900m",
+      "follow": 0,
+      "id": 130,
+      "lat": 40.02865,
+      "lng": 116.31154,
+      "mark": 0,
+      "nm": "橙天嘉禾影城(上地店)",
+      "poiId": 14447,
+      "price": 59.5,
+      "promotion": {},
+      "referencePrice": "80",
+      "score": 717.2727,
+      "sellPrice": "59.5",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": [
+          "60帧厅",
+          "4K厅"
+        ],
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区清河中街68号华润五彩城购物中心东区7层",
+      "cityId": 1,
+      "dis": 2807.428108792895,
+      "distance": "2.8km",
+      "follow": 0,
+      "id": 5111,
+      "lat": 40.030476,
+      "lng": 116.334724,
+      "mark": 0,
+      "nm": "CGV星聚汇影城(清河店)",
+      "poiId": 2374984,
+      "price": 49,
+      "promotion": {},
+      "referencePrice": "40",
+      "score": 793.90247,
+      "sellPrice": "49",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallType": ["60帧厅"],
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区悦秀路99号二层",
+      "cityId": 1,
+      "dis": 3405.785695475522,
+      "distance": "3.4km",
+      "follow": 0,
+      "id": 7433,
+      "lat": 40.04733,
+      "lng": 116.33703,
+      "mark": 0,
+      "nm": "大地影院(西三旗物美店)",
+      "poiId": 4845675,
+      "price": 34,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "0",
+      "score": 648.14813,
+      "sellPrice": "34",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "昌平区回龙观西大街111号华联商场3楼",
+      "cityId": 1,
+      "dis": 5035.284869797422,
+      "distance": "5.0km",
+      "follow": 0,
+      "id": 140,
+      "lat": 40.07596,
+      "lng": 116.31944,
+      "mark": 0,
+      "nm": "星美国际影城(回龙观店)",
+      "poiId": 286187,
+      "price": 39,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "40",
+      "score": 547.9166,
+      "sellPrice": "39",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区学清路甲8号圣熙8号购物中心5层西侧（学清路）",
+      "cityId": 1,
+      "dis": 5173.529925477028,
+      "distance": "5.2km",
+      "follow": 0,
+      "id": 70,
+      "lat": 40.008587,
+      "lng": 116.35387,
+      "mark": 0,
+      "nm": "嘉华国际影城(学清路店)",
+      "poiId": 84440,
+      "price": 39,
+      "promotion": {},
+      "referencePrice": "70",
+      "score": 834.88367,
+      "sellPrice": "39",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "昌平区回龙观同成街华联购物中心四楼（城铁回龙观站出口对面）",
+      "cityId": 1,
+      "dis": 5299.175690234457,
+      "distance": "5.3km",
+      "follow": 0,
+      "id": 9647,
+      "lat": 40.071976,
+      "lng": 116.33717,
+      "mark": 0,
+      "nm": "沃美影城(回龙观店)",
+      "poiId": 4058821,
+      "price": 39,
+      "promotion": {},
+      "referencePrice": "0",
+      "score": 618.27954,
+      "sellPrice": "39",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": ["杜比全景声厅"],
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "昌平区黄平路19号院3号楼龙旗广场购物中心3层（地铁8号线育新站路北600米，近永辉超市）",
+      "cityId": 1,
+      "dis": 5363.247606407277,
+      "distance": "5.4km",
+      "follow": 0,
+      "id": 5502,
+      "lat": 40.066605,
+      "lng": 116.34672,
+      "mark": 0,
+      "nm": "保利国际影城(龙旗广场店)",
+      "poiId": 3320660,
+      "price": 39,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "100",
+      "score": 782.7586,
+      "sellPrice": "39",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": ["4K厅"],
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区成府路23号（近五道口城铁站）",
+      "cityId": 1,
+      "dis": 5400.324063052586,
+      "distance": "5.4km",
+      "follow": 0,
+      "id": 258,
+      "lat": 39.99351,
+      "lng": 116.33939,
+      "mark": 0,
+      "nm": "五道口工人俱乐部电影院",
+      "poiId": 82591,
+      "price": 33,
+      "promotion": {},
+      "referencePrice": "35",
+      "score": 543.90247,
+      "sellPrice": "33",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区中关村大街15号中关村广场购物中心津乐汇3楼（地铁中关村站D口出西侧）",
+      "cityId": 1,
+      "dis": 5599.592485993589,
+      "distance": "5.6km",
+      "follow": 0,
+      "id": 197,
+      "lat": 39.983105,
+      "lng": 116.31355,
+      "mark": 0,
+      "nm": "美嘉欢乐影城(中关村店)",
+      "poiId": 279439,
+      "price": 49,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "80",
+      "score": 818.75,
+      "sellPrice": "49",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区宝盛北里西区28号兴美生活广场5层",
+      "cityId": 1,
+      "dis": 5869.414383592535,
+      "distance": "5.9km",
+      "follow": 0,
+      "id": 5359,
+      "lat": 40.037056,
+      "lng": 116.370605,
+      "mark": 0,
+      "nm": "新华国际影城(宝盛店)",
+      "poiId": 2408760,
+      "price": 28,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "70",
+      "score": 744.89795,
+      "sellPrice": "28",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区中关村大街19号新中关购物中心B1层",
+      "cityId": 1,
+      "dis": 6129.686983126685,
+      "distance": "6.1km",
+      "follow": 0,
+      "id": 152,
+      "lat": 39.978382,
+      "lng": 116.31445,
+      "mark": 0,
+      "nm": "金逸影城(中关村店)",
+      "poiId": 276722,
+      "price": 53.5,
+      "promotion": {},
+      "referencePrice": "80",
+      "score": 756.89655,
+      "sellPrice": "53.5",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": ["60帧厅"],
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区西三旗建材城中路6号新都购物广场1层",
+      "cityId": 1,
+      "dis": 6200.1010709026705,
+      "distance": "6.2km",
+      "follow": 0,
+      "id": 58,
+      "lat": 40.060005,
+      "lng": 116.36541,
+      "mark": 0,
+      "nm": "金逸影城(新都店)",
+      "poiId": 1549060,
+      "price": 33.5,
+      "promotion": {},
+      "referencePrice": "60",
+      "score": 595.2381,
+      "sellPrice": "33.5",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区中关村大街28号",
+      "cityId": 1,
+      "dis": 6377.399064827978,
+      "distance": "6.4km",
+      "follow": 0,
+      "id": 257,
+      "lat": 39.97669,
+      "lng": 116.31822,
+      "mark": 0,
+      "nm": "海淀剧院",
+      "poiId": 17899,
+      "price": 38,
+      "promotion": {},
+      "referencePrice": "80",
+      "score": 785.7143,
+      "sellPrice": "38",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区巴沟路2号华联万柳购物中心5层",
+      "cityId": 1,
+      "dis": 6664.224669432857,
+      "distance": "6.7km",
+      "follow": 0,
+      "id": 86,
+      "lat": 39.97296,
+      "lng": 116.29486,
+      "mark": 0,
+      "nm": "橙天嘉禾影城(万柳店)",
+      "poiId": 3303603,
+      "price": 29.5,
+      "promotion": {},
+      "referencePrice": "80",
+      "score": 652.6316,
+      "sellPrice": "29.5",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": [
+          "60帧厅",
+          "4K厅"
+        ],
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区万柳华府北街2号（万柳华联商城南门对面）",
+      "cityId": 1,
+      "dis": 6830.502389862486,
+      "distance": "6.8km",
+      "follow": 0,
+      "id": 141,
+      "lat": 39.971443,
+      "lng": 116.295105,
+      "mark": 0,
+      "nm": "海淀工人文化宫",
+      "poiId": 38025,
+      "price": 23,
+      "promotion": {},
+      "referencePrice": "30",
+      "score": 805.2631,
+      "sellPrice": "23",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "昌平区北清路1号永旺国际商城3楼",
+      "cityId": 1,
+      "dis": 7288.685590865648,
+      "distance": "7.3km",
+      "follow": 0,
+      "id": 107,
+      "lat": 40.09749,
+      "lng": 116.28857,
+      "mark": 0,
+      "nm": "中影国际影城(昌平永旺店)",
+      "poiId": 82598,
+      "price": 41.9,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "23",
+      "score": 733.3334,
+      "sellPrice": "41.9",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": ["60帧厅"],
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区双榆树科学院南路44号（双安商场对面）",
+      "cityId": 1,
+      "dis": 7501.315515154939,
+      "distance": "7.5km",
+      "follow": 0,
+      "id": 155,
+      "lat": 39.967793,
+      "lng": 116.326096,
+      "mark": 0,
+      "nm": "UME国际影城(华星店)",
+      "poiId": 1436373,
+      "price": 49.5,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "70",
+      "score": 847.99994,
+      "sellPrice": "49.5",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 0,
+        "hallType": [
+          "60帧厅",
+          "IMAX厅"
+        ],
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区北三环18号院大钟寺中坤广场C座3层（地铁13号线大钟寺站出站即到）",
+      "cityId": 1,
+      "dis": 8158.191926290677,
+      "distance": "8.2km",
+      "follow": 0,
+      "id": 1589,
+      "lat": 39.96573,
+      "lng": 116.34114,
+      "mark": 0,
+      "nm": "新华国际影城(大钟寺店)",
+      "poiId": 1524564,
+      "price": 28,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "80",
+      "score": 695.1807,
+      "sellPrice": "28",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "hallType": ["双机3D厅"],
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区远大路1号金源时代购物中心5楼东首（近蓝靛厂北路）",
+      "cityId": 1,
+      "dis": 8299.12929823151,
+      "distance": "8.3km",
+      "follow": 0,
+      "id": 271,
+      "lat": 39.95867,
+      "lng": 116.2889,
+      "mark": 0,
+      "nm": "星美国际影城(金源店)",
+      "poiId": 271447,
+      "price": 52,
+      "promotion": {"cardPromotionTag": "开卡购票首单更优惠"},
+      "referencePrice": "35",
+      "score": 723.0769,
+      "sellPrice": "52",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0,
+        "vipTag": "折扣卡"
+      },
+      "showPrice": true
+    },
+    {
+      "addr": "海淀区远大路1号院B座五楼西侧001号（居然之家材料馆楼上）",
+      "cityId": 1,
+      "dis": 8370.342178449002,
+      "distance": "8.4km",
+      "follow": 0,
+      "id": 17304,
+      "lat": 39.95804,
+      "lng": 116.28877,
+      "mark": 0,
+      "nm": "魔影国际影城(金源店)",
+      "poiId": 156803662,
+      "price": 23,
+      "promotion": {},
+      "referencePrice": "0",
+      "score": 877.7778,
+      "sellPrice": "23",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "deal": 0,
+        "endorse": 1,
+        "sell": 1,
+        "snack": 0
+      },
+      "showPrice": true
+    }
+  ],
+  "ct_pois": [
+    {
+      "ct_poi": "936879945111165696_a130_c0",
+      "poiid": 14447
+    },
+    {
+      "ct_poi": "936879945111165696_a5111_c1",
+      "poiid": 2374984
+    },
+    {
+      "ct_poi": "936879945111165696_a7433_c2",
+      "poiid": 4845675
+    },
+    {
+      "ct_poi": "936879945111165696_a140_c3",
+      "poiid": 286187
+    },
+    {
+      "ct_poi": "936879945111165696_a70_c4",
+      "poiid": 84440
+    },
+    {
+      "ct_poi": "936879945111165696_a9647_c5",
+      "poiid": 4058821
+    },
+    {
+      "ct_poi": "936879945111165696_a5502_c6",
+      "poiid": 3320660
+    },
+    {
+      "ct_poi": "936879945111165696_a258_c7",
+      "poiid": 82591
+    },
+    {
+      "ct_poi": "936879945111165696_a197_c8",
+      "poiid": 279439
+    },
+    {
+      "ct_poi": "936879945111165696_a5359_c9",
+      "poiid": 2408760
+    },
+    {
+      "ct_poi": "936879945111165696_a152_c10",
+      "poiid": 276722
+    },
+    {
+      "ct_poi": "936879945111165696_a58_c11",
+      "poiid": 1549060
+    },
+    {
+      "ct_poi": "936879945111165696_a257_c12",
+      "poiid": 17899
+    },
+    {
+      "ct_poi": "936879945111165696_a86_c13",
+      "poiid": 3303603
+    },
+    {
+      "ct_poi": "936879945111165696_a141_c14",
+      "poiid": 38025
+    },
+    {
+      "ct_poi": "936879945111165696_a107_c15",
+      "poiid": 82598
+    },
+    {
+      "ct_poi": "936879945111165696_a155_c16",
+      "poiid": 1436373
+    },
+    {
+      "ct_poi": "936879945111165696_a1589_c17",
+      "poiid": 1524564
+    },
+    {
+      "ct_poi": "936879945111165696_a271_c18",
+      "poiid": 271447
+    },
+    {
+      "ct_poi": "936879945111165696_a17304_c19",
+      "poiid": 156803662
+    }
+  ],
+  "paging": {
+    "hasMore": true,
+    "limit": 20,
+    "offset": 0,
+    "total": 195
+  }
+}

@@ -1,0 +1,68 @@
+.listmenu{
+	width:100%;
+	font-size:'weiruanyahei';
+	padding:10px 5px;
+	background:#fff;
+	i{
+	font-style:normal;
+	font-size:12px;
+	}
+	.like{
+	font-size:14px;
+	color: #333;
+	font-size:14px;
+	border-bottom:1px solid #DDD8CE;
+	}
+
+	.list-item{
+		padding:8px 0;
+		border-bottom: 1px solid #DDD8CE;
+		display:flex;
+		&:last-child{
+		border:none;
+		}
+		dt{
+		width:90px;
+		height:88px;
+		margin-right:10px;
+			img{
+			width:100%;
+			height:100%;
+			}
+		}
+
+		dd{
+			flex:1;
+			.food-name{
+			    color: #666;
+			    margin-bottom:10px;
+			    font-size:14px;
+			}
+			.food-des{
+			margin-bottom:20px;
+			font-size:14px;
+		    margin-bottom:10px;
+		    color: #333;
+		    text-overflow: ellipsis;
+		    display: -webkit-box;
+		    -webkit-line-clamp:1;
+		    -webkit-box-orient: vertical;
+		    overflow: hidden;
+			}
+			.food-price{
+			position:relative;
+				.price{
+				color: #06c1ae;
+				font-size:16px;
+				}
+				.saled{
+				position:absolute;
+				right:0;
+				top:3px;
+				font-size:14px;
+
+				}
+			}
+		}
+	}
+}

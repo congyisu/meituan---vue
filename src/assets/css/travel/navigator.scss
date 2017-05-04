@@ -1,0 +1,47 @@
+@import './common.scss';
+.navs{
+	width:100%;
+	border-bottom:1px solid #ccc;
+}
+
+.list{
+	width:100%;
+	display:flex;
+	align-items:center;
+	li{
+		position:relative;
+		text-align:center;
+		line-height:44px;
+		height:44px;
+		flex:1;
+		color:#666;
+		font-size:12px;
+		&:first-child{
+			&:before{
+				left:72%;
+			}
+		}
+		&:last-child{
+			letter-spacing:10px;
+			&:before{
+				left:67%;
+			}
+		}
+		&.high{
+			color:$basecolor;
+		}
+		&:before{
+			position:absolute;
+			left:80%;
+			top:3%;
+			color:#ccc;
+		}
+		&.icon-arrows-bottom:before{
+			color:$basecolor;
+		}
+		
+	}
+}
+.show{
+	display:block !important;
+}

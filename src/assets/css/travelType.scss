@@ -1,0 +1,25 @@
+@import './common.scss';
+.travelType{
+	width:100%;
+	height:100%;
+	position:absolute;
+	background:rgba(0,0,0,.5);
+	left:0;
+	top:0;
+	display:none;
+	.travelItems{
+		width:100%;
+		background:#fff;
+		p{
+			line-height:44px;
+			height:44px;
+			font-size:12px;
+			color:#666;
+			text-indent:23px;
+			&.active{
+				background:#eee;
+				color:$basecolor;
+			}
+		}
+	}
+}

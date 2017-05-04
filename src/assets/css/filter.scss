@@ -1,0 +1,120 @@
+@import './common.scss';
+
+.filterArea{
+	width:100%;
+	height:100%;
+	position:absolute;
+	left:0;
+	top:0;
+	display:none;
+
+	.filterItems{
+		width:100%;
+		background:#fff;
+
+		div{
+			line-height:35px;
+			margin-bottom:10px;
+			padding:0  20px;
+		}
+		.play_method{
+			width:100%;
+			margin:0;
+			border-bottom:1px solid #ccc;
+			h4{
+				font-size:14px;
+				color:#666;
+			}
+			p{
+				width:100%;
+				display:flex;
+				a{
+					flex:1;
+					color:#666;
+					font-size:12px;
+					text-align:center;
+					border:1px solid #ddd;
+					margin-right:10px;
+					border-radius:10%;
+					margin-bottom:20px;
+				}
+			}
+		}
+		.use_date{
+			width:100%;
+			padding:0;
+			p{
+				overflow:hidden;
+				border-bottom:1px solid #ccc;
+				padding:5px 20px;
+				i{
+					font-size:14px;
+					font-style: normal;
+				}
+				span{
+					color:#666;
+					font-size:14px;
+					&:nth-child(2){
+						float:right;
+					}
+					&:nth-child(1){
+						float:left;
+					}
+					&.icon-yuan-checkbox-checked:before{
+						color:#06C1AE;
+					}
+				}
+			}
+		}
+		.view_rank{
+			width:100%;
+			h4{
+				color:#666;
+				font-size:14px;
+			}
+			p{
+				width:100%;
+				a{
+					float:left;
+					color:#666;
+					font-size:12px;
+					width:18%;
+					text-align:center;
+					margin-bottom:5px;
+					border:1px solid #ddd;
+					margin-right:18px;
+					border-radius:10%;
+				}
+			}
+		}
+		.btns{
+			width:100%;
+			overflow:hidden;
+			a{
+				color:$basecolor;
+				font-size:16px;
+				&:nth-child(1){
+					float:left;
+				}
+				&:nth-child(2){
+					float:right;
+				}
+			}
+		}
+	}
+}
+.on{
+	background:$basecolor;
+	color:#fff !important;
+}
+.filterArea-hide{
+	display:none;
+}
+	.layer{
+		width:100%;
+		height:100%;
+		background:rgba(0,0,0,0.5);
+		position: absolute;
+		top:0;
+		left: 0;
+	}
